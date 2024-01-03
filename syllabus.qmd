@@ -90,13 +90,9 @@ This class is all about artificial intelligence, however, the primary intelligen
 
 Commercial AI tools have significant and sometimes difficult-to-spot limitations. "For example, the current generation of Chat-GPT cannot perform synthesis of sources or even document the sources that were used to create its responses. So it may be useful for idea generation or generic recommendations but it has no ability to creatively and independently generate new insights and make novel connections. These tools may also produce information that is incorrect or biased so students must ensure that material they submit or share has been verified with appropriate sources and is reasonably free of biases."
 
-### Irresponsible uses of AI tools
-
-
-
 ### Responsible use of AI tools
 
-There are a number of ways that Ai tools can be helpful:
+There are a number of ways that AI tools can be helpful:
 
 - As a way of detecting spelling and grammar issues (such as with grammarly)
 - As a way of identifying possible ways to structure writing (although NOT to do the writing for you)
