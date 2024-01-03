@@ -1,0 +1,129 @@
+---
+title: Course Logistics
+subtitle: IDS:705 Principles of Machine Learning
+toc: true
+toc-expand: 3
+number-sections: false
+---
+
+## Basic Logistics
+
+::: {.callout-note}
+## Class Time and Location
+- **When**: Tuesday and Thursdays 10:15am - 11:30am
+- **Where**: French Science 2231
+:::
+
+### Class Tools and Resources
+- **Ed Discussions**: announcements, Q&A on course content (assignments, quizzes, grades), all course communications
+- **Gradescope**: Assignment & project submission & feedback
+- **Course Schedule**: Schedule & assignments
+
+### Textbooks
+Each book is available free online:
+
+- [**An Introduction to Statistical Learning with Python**](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2013.
+- [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) by Christopher Bishop, 2006.
+- [**Deep Learning**](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville, 2016.
+- [**Reinforcement Learning: An Introduction**](http://incompleteideas.net/book/the-book-2nd.html), by Richard Sutton and Andrew Barto, 2018.
+
+### Assignments & Grading
+Assignments, projects, & quizzes: Assignments and projects details are posted on the course syllabus. For expectations and instructions on the assignments, see the Assignment Instructions. Quizzes are found on Sakai under "Tests & Quizzes".
+
+#### Grading:
+- 55% Assignments (5, each worth ~11%)
+- 20% Quizzes (~23, each worth <1%)
+- 25% Final Project
+
+### Prerequisites
+This course moves quickly, so having a firm grasp on prerequisites is important. The prerequisites are as follows:
+
+- Programming: Fundamentals of Python programming.
+- Mathematics: Calculus and linear algebra.
+- Statistics: Introductory probability and statistics.
+
+### Software and Hardware Tools
+**Programming language**: We will use Python 3.x. The Anaconda distribution is recommended and comes with the most common packages. Python continues to be an one of the top programming languages and the rich packages in the language make it an excellent choice for machine learning. In particular the Python ecosystem of packages makes it a natural choice for ML including core numerical programming and plotting libraries like numpy, scipy, matplotlib, and pandas as well as excellent packages for machine learning algorithm development and statistical modeling including TensorFlow, Pytorch, Keras, Scikit-Learn.
+
+**Development environments**: Jupyter lab or Jupyter notebook will be appropriate for most class assignments. We highly encourage you to use Visual Studio Code or Spyder are for larger projects, in particular due to the debugging capabilities. There are many configurations that may work for you, but consider branching out to some of these other tools as well.
+
+**Graphics processing units (GPUs)**: GPUs are the workhorses of many modern machine learning algorithms, especially any that involve neural network-based architectures. There will be a small number of assignments that will require additional computation from that of GPUs. For these, we will use Google Colab, which is a free notebook environment that enables access to cloud resources including GPUs. For longer sessions before timeouts, greater RAM, and better GPUs you can optionally upgrade to Colab Pro.
+
+
+## Course Policies
+### Academic dishonesty
+Adherence to the Duke Community Standard is expected. To uphold the Duke Community Standard:
+
+I will not lie, cheat, or steal in my academic endeavors; \
+I will conduct myself honorably in all my endeavors; and \
+I will act if the Standard is compromised
+
+Anyone found in violation of the Standard will be reported to the Office of Student Conduct.
+
+### Class Attendance
+Attending class is a vital component of the course as it is one of the multiple ways in which you will interact with and learn course material. In person class attendance is therefore expected for this course. For any special circumstances, please reach out to the course instructor.
+
+### Sick absences
+To keep the university community as safe and healthy as possible, please do not come to class if you have cold symptoms. Please inform me of your absence and plan to complete any missed work. Students who encounter short- and long-term medical issues or instances of personal distress or emergency can seek academic support if needed. Recordings of the class will be available for excused absences.
+
+### Accommodations
+If you need special accommodations due to physical or learning disabilities, medical needs, religious practices, or other reasons, please inform us as soon as possible so we can work to accommodate those needs.
+
+### Late Submissions
+Assignments and projects are due in class by the start of class on the date posted. Late deliverables will ONLY be accepted at the discretion of the instructor. Any late assignments will result in a reduction of 5 points off the grade per day late. Course projects will not be accepted after the deadline. Quizzes will not be accepted after the deadline. While quizzes cannot be made up since the answers are discussed, the lowest two quizzes will be dropped at the end of the semester for each student to accommodate necessary absences and days when we're off our game. Please reach out to the TA's or instructor as early as possible to request any special accommodations.
+
+### Collaboration
+
+There will be three modes of collaboration ranging from fully-collaborative group projects, to fully-independent work. The three modes are as follows, and will be indicated throughout the course:
+
+- Mode 1: Team-based Assignment. Collaboration is expected with every member of the team contributing to a single deliverable. **Applies to the Project**
+- Mode 2: Individual Assignment – Collaboration Permitted. Students hand in *individual* work, but they may work with others if they provide citations of the help they received, such as a list of people who assisted/collaborated with them to produce the final product. Duplication or copying is not permissible, even in part, and constitutes a breach of the honor code. **Applies to Assignments**
+- Mode 3: Individual Assignment – No Collaboration Permitted. Students hand in individual work that is completed entirely independent of any discussion or help from other students. Clarifying questions to teaching assistants and instructors are both permissible and encouraged. **Applies to Quizzes**
+
+## The use of Artificial Intelligence
+
+This class is all about artificial intelligence, however, the primary intelligence that we are working to expand is *your own*.  
+
+### Challenges of commercial AI tools
+
+*Quoted excerpts below from [the University of Delaware](https://ctal.udel.edu/advanced-automated-tools/#syllabus-language)*
+
+Commercial AI tools have significant and sometimes difficult-to-spot limitations. "For example, the current generation of Chat-GPT cannot perform synthesis of sources or even document the sources that were used to create its responses. So it may be useful for idea generation or generic recommendations but it has no ability to creatively and independently generate new insights and make novel connections. These tools may also produce information that is incorrect or biased so students must ensure that material they submit or share has been verified with appropriate sources and is reasonably free of biases."
+
+### Irresponsible uses of AI tools
+
+
+
+### Responsible use of AI tools
+
+There are a number of ways that Ai tools can be helpful:
+
+- As a way of detecting spelling and grammar issues (such as with grammarly)
+- As a way of identifying possible ways to structure writing (although NOT to do the writing for you)
+- As a way of brainstorming ideas (keeping in mind that what is generated by the AI may be incorrect or misleading)
+
+In this class, the use of AI tools is acceptable WITH CITATION. An appropriate citation would indicate the following information:
+
+1. What AI tool you used (e.g. ChatGPT)
+2. How you used it, specifying prompts used (e.g. I checked my writeup for clarity with the prompt, "Review this text {} and improve its clarity")
+
+At the end of the day, **you are responsible for the correctness** of everything that you submit, regardless of whether there was an AI tool used in its generation.
+
+### Accessibility
+In addition to accessibility issues experienced during the typical academic year, I recognize that remote learning may present additional challenges. Students may be experiencing unreliable wi-fi, lack of access to quiet study spaces, varied time-zones, or additional responsibilities while studying at home. If you are experiencing these or other difficulties, please contact me to discuss possible accommodations.
+
+### Rules for video recording course content
+Student recording recordings of lectures must be permitted by the instructor and shall be for private study only. Such recordings shall not be distributed to anyone else without authorization by the instructor whose lecture has been recorded. However, the instructor may arrange through the Office of Information Technology to make recorded lectures available to students enrolled in the class on such terms and conditions as he or she prescribes. Redistribution of recorded lectures is prohibited. Unauthorized distribution is a cause for disciplinary action by the Judicial Board. The full policy on recoding of lectures falls under the Duke University Policy on Intellectual Property Rights, available here.
+
+## Mental Health and Wellness Resources
+If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to you, including ones listed below. Duke encourages all students to access these resources, particularly as we navigate the transition and emotions associated with this time. Duke Student Government has worked with DukeReach and student advocates to create the Fall 2020 “Two-Click Support” Form, and Duke Reach has expanded its drop in hours as well.
+
+- DukeReach Provides comprehensive outreach services to identify and support students in managing all aspects of wellbeing. If you have concerns about a student's behavior or health visit the website for resources and assistance.
+- Counseling and Psychological Services (CAPS) CAPS services include individual, group, and couples counseling services, health coaching, psychiatric services, and workshops and discussions. (919) 660-1000
+- Blue Devils Care A convenient and cost-effective way for Duke students to receive 24/7 mental health support through TalkNow.
+
+Managing daily stress and self-care are also important to well-being. Duke offers several resources for students to both seek assistance on coursework and improve overall wellness, some of which are listed below. Please visit this site to learn more about:
+
+- The Academic Resource Center: (919) 684-5917, theARC@duke.edu
+- DuWell: (919) 681-8421, duwell@studentaffairs.duke.edu
+- WellTrack
