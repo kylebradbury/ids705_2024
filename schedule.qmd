@@ -49,8 +49,8 @@ The schedule below is a guide to what we will be covering throughout the semeste
     </td>
     <td>None</td>
     <td>
-      <!-- [slides] -->
-      <a href="https://github.com/kylebradbury/ids705/raw/main/lectures/lecture01_what_is_machine_learning.pdf">[slides]</a><br>
+      [slides]
+      <!-- <a href="https://github.com/kylebradbury/ids705/raw/main/lectures/lecture01_what_is_machine_learning.pdf">[slides]</a><br> -->
     </td>
   </tr>
 
@@ -190,8 +190,8 @@ The schedule below is a guide to what we will be covering throughout the semeste
       A risk-based framework for determining to operate supervised learning algorithms in practice; choosing ROC operating points through risk-minimization and how application-specific costs associated with different types of errors can be used to determine optimal operating points for classifiers
     </td>
     <td>
-      Link to reading
-      <!-- <a href="http://canmedia.mheducation.ca/college/olcsupport/lind/5ce/Lind5ce_Ch17_An_Introduction_to_Decision_Theory.pdf">Link to reading</a> -->
+      <!-- Link to reading -->
+      <a href="https://edstem.org/us/courses/50969/resources?download=33263">Link to reading</a>
       <!-- <a href="https://edstem.org/us/courses/32544/resources?download=24417">Link to reading</a> -->
     </td>
     <td>

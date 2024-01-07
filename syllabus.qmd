@@ -15,9 +15,9 @@ number-sections: false
 :::
 
 ### Class Tools and Resources
-- **Ed Discussions**: announcements, Q&A on course content (assignments, quizzes, grades), all course communications
-- **Gradescope**: Assignment & project submission & feedback
-- **Course Schedule**: Schedule & assignments
+- **Ed Discussions**: Announcements, Q&A on course content (assignments, quizzes, grades), ALL course communications
+- **Gradescope**: Quizzes, assignments, and project submission & feedback
+- **Schedule**: Schedule of class topics and deliverables
 
 ### Textbooks
 Each book is available free online:
@@ -28,7 +28,7 @@ Each book is available free online:
 - [**Reinforcement Learning: An Introduction**](http://incompleteideas.net/book/the-book-2nd.html), by Richard Sutton and Andrew Barto, 2018.
 
 ### Assignments & Grading
-Assignments, projects, & quizzes: Assignments and projects details are posted on the course syllabus. For expectations and instructions on the assignments, see the Assignment Instructions. Quizzes are found on Sakai under "Tests & Quizzes".
+Assignments, projects, & quizzes: Assignments and projects details are posted on the course syllabus. For expectations and instructions on the assignments, see the Assignment Instructions. Quizzes are found on Gradescope.
 
 #### Grading:
 - 55% Assignments (5, each worth ~11%)
