@@ -1,9 +1,0 @@
----
-title: Assignment 1
-subtitle: IDS:705 Principles of Machine Learning
-toc: true
-toc-expand: 2
-number-sections: false
----
-
-{{< embed Assignment_1.ipynb >}}
