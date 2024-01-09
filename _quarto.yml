@@ -2,7 +2,11 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "/assignments/data/*"
+    - "/assignments/**"
+  render:
+    - "*.qmd"
+    - "*.ipynb"
+    - "!assignments/*"
 
 website:
   title: "IDS705: Principles of Machine Learning"
@@ -36,9 +40,9 @@ website:
           - contacts.qmd
           - pedagogy.qmd
           - tools.qmd
-      - section: "Assignments"
-        contents:
-          - assignments/assignment1.qmd
+      # - section: "Assignments"
+      #   contents:
+      #     - assignments/assignment1.qmd
       - section: "Resources"
         contents:
           - notebooks/assignment_instructions.ipynb

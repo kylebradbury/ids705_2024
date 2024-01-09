@@ -103,10 +103,10 @@ The schedule below is a guide to what we will be covering throughout the semeste
     <td><b>Assignment #1 Due (at 9pm)</b><br> Probability, Linear Algebra, & Computational Programming</td>
     <td></td>
     <td>
-      <!-- <a href="https://github.com/kylebradbury/ids705/blob/main/assignments/Assignment_1.ipynb">[assignment]</a><br> -->
-      <!-- <a href="https://github.com/kylebradbury/ids705/blob/main/assignments/Assignment_1_Q12_Example.ipynb">[sample Q12]</a><br> -->
-      <!-- [submit] -->
-      <a href="https://www.gradescope.com/">[submit]</a>
+      <a href="https://github.com/kylebradbury/ids705/blob/main/assignments/Assignment_1.ipynb">[assignment]</a><br>
+      <a href="https://github.com/kylebradbury/ids705/blob/main/assignments/Assignment_1_Q12_Example.ipynb">[sample Q12]</a><br>
+      [submit]
+      <!-- <a href="https://www.gradescope.com/">[submit]</a> -->
     </td>
   </tr>
 
