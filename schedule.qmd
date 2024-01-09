@@ -19,14 +19,13 @@ The schedule below is a guide to what we will be covering throughout the semeste
 ::: {.callout-tip}
 ## Key to books used below
 
-- ISL = Introduction to Statistical Learning, by James, Witten, Hastie, and Tibshirani
+- ISL = [**An Introduction to Statistical Learning with Python**](https://www.statlearning.com/), by James, Witten, Hastie, and Tibshirani
+- UDL = [**Understanding Deep learning**](https://udlbook.github.io/udlbook/) by Simon Prince
 - DM = Introduction to Data Mining, by Tan, Steinbach, Karpatne, and Kumar
-- PRML = Pattern Recognition and Machine Learning, by Bishop
-- DL = Deep Learning, by Goodfellow, Bengio, and Courville
-- RL = Reinforcement Learning: An Introduction, by Sutton and Barto
+- PRML = [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/), by Bishop
+- DL = [**Deep Learning**](https://www.deeplearningbook.org/), by Goodfellow, Bengio, and Courville
+- RL = [**Reinforcement Learning: An Introduction**](http://incompleteideas.net/book/the-book-2nd.html): An Introduction, by Sutton and Barto
 :::
-
-
 
 ```{=html}
 <table class="table table-hover">
@@ -276,7 +275,7 @@ The schedule below is a guide to what we will be covering throughout the semeste
       <b>Neural networks I</b> <br>
       Introduction to neural networks and representation learning; forward propagation, network architecture, and how to adapt to regression or classification problems
     </td>
-    <td>PRML Ch 5: 5.1 </td>
+    <td>UDL Ch 3: 3.1, 3.2; PRML Ch 5: 5.1 </td>
     <td>
       [slides]
       <!-- <a href="https://github.com/kylebradbury/ids705/raw/main/lectures/lecture13_neural_networks_1.pdf">[slides]</a> -->
@@ -290,7 +289,7 @@ The schedule below is a guide to what we will be covering throughout the semeste
       <b>Neural networks II</b> <br>
       Fitting a neural network to training data through gradient descent and backpropagation; how backpropagation is used to compute gradients in neural networks; hyperparameters and architecture choices in neural networks and practices for training neural networks warningfully
     </td>
-    <td>PRML Ch 5: 5.3 (intro), 5.3.1, 5.3.2, and <a href="http://colah.github.io/posts/2015-08-Backprop/">Calculus on Computational Graphs</a></td>
+    <td>UDL Ch 3: 6.1; PRML Ch 5: 5.3.1, and <a href="http://colah.github.io/posts/2015-08-Backprop/">Calculus on Computational Graphs</a></td>
     <td>
       [slides]
       <!-- <a href="https://github.com/kylebradbury/ids705/raw/main/lectures/lecture14_neural_networks_2.pdf">[slides]</a> -->
