@@ -13,6 +13,8 @@ website:
   title: "IDS705: Principles of Machine Learning"
   navbar:
     left:
+      - href: ./schedule.qmd
+        text: Schedule
       - href: https://canvas.duke.edu/courses/26492
         text: Canvas
       - href: https://edstem.org/us/courses/50969/

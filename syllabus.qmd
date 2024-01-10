@@ -10,7 +10,7 @@ number-sections: false
 
 ::: {.callout-note}
 ## Class Time and Location
-- **When**: Tuesday and Thursdays 10:15am - 11:30am
+- **When**: Tuesday and Thursdays 10:05am - 11:20am
 - **Where**: French Science 2231
 :::
 
