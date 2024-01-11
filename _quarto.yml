@@ -8,6 +8,7 @@ project:
     - "*.ipynb"
     - "!assignments/*"
     - "!archive/*"
+    - "!lectures/*"
 
 website:
   title: "IDS705: Principles of Machine Learning"
