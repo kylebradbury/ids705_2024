@@ -473,7 +473,7 @@ The schedule below is a guide to what we will be covering throughout the semeste
 
   <tr class="table-warning">
     <td><b>Deliverable</b></td>
-    <td class="date">Friday <br> Apr 3 </td>
+    <td class="date">Wednesday <br> Apr 3 </td>
     <td><b>Draft Final Project Report Due (at 9pm)</b></td>
     <td></td>
     <td>
