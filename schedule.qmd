@@ -542,7 +542,7 @@ The schedule below is a guide to what we will be covering throughout the semeste
     </td>
     <td></td>
     <td>
-      [project]
+      <!-- [project] -->
       <a href="https://kylebradbury.github.io/ids705/project.html">[project]</a>
     </td>
   </tr>
@@ -553,10 +553,10 @@ The schedule below is a guide to what we will be covering throughout the semeste
     <td><b>Final Project Report Due (at 9pm)</b></td>
     <td></td>
     <td>
-      [project] <br>
-      [submit]
+      <!-- [project] <br> -->
+      <!-- [submit] -->
       <a href="https://kylebradbury.github.io/ids705/project.html#final-report">[project]</a><br>
-      <!-- <a href="https://www.gradescope.com/">[submit]</a> -->
+      <a href="https://www.gradescope.com/">[submit]</a>
     </td>
   </tr>
 
@@ -566,9 +566,21 @@ The schedule below is a guide to what we will be covering throughout the semeste
     <td><b>Final Project Peer Evaluation Due (at 9pm)</b></td>
     <td></td>
     <td>
-      [project]
+      <!-- [project] -->
       <a href="https://kylebradbury.github.io/ids705/project.html#peer-evaluation">[project]</a><br>
       [submit via emailed link]
+    </td>
+  </tr>
+
+  <tr class="table-warning">
+    <td><b>Deliverable</b></td>
+    <td class="date">Monday <br> Apr 22</td>
+    <td><b>Final Project Repository Due (at 9pm)</b></td>
+    <td></td>
+    <td>
+      <!-- [project] -->
+      <a href="https://kylebradbury.github.io/ids705/project.html#github-repository">[project]</a><br>
+      [submit via emailed link from TEAMMATES]
     </td>
   </tr>
 
