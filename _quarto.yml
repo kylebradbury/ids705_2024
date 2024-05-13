@@ -51,7 +51,8 @@ website:
       - section: "Resources"
         contents:
           - notebooks/assignment_instructions.ipynb
-          
+          - text: "File structure template"
+            href: https://github.com/kylebradbury/ml-project-structure-demo
 format:
   html:
     theme: 
