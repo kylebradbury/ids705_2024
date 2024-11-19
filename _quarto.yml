@@ -22,7 +22,7 @@ website:
         text: Ed Discussions
       - href: https://www.gradescope.com/courses/691361
         text: Gradescope
-  google-analytics: "G-63SKKDGFHG"
+  # google-analytics: "G-63SKKDGFHG"
     # tools:
     #   - icon: linkedin
     #     href: https://twitter.com
@@ -57,7 +57,7 @@ format:
   html:
     theme: 
       - cosmo
-      - style.css
+      # - style.css
     css: styles.css
     toc: true
     grid:

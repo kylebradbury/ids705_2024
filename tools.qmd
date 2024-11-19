@@ -6,6 +6,12 @@ toc-expand: 2
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 ### Programming language: Python
 We will use Python 3.x. The Anaconda distribution is recommended and comes with the most common packages. Python continues to be an one of the top programming languages and the rich packages in the language make it an excellent choice for machine learning. In particular the Python ecosystem of packages makes it a natural choice for ML including core numerical programming and plotting libraries like numpy, scipy, matplotlib, and pandas as well as excellent packages for machine learning algorithm development and statistical modeling including Scikit-Learn, Keras, and Pytorch.
 

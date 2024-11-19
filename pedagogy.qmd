@@ -6,6 +6,12 @@ toc-expand: 2
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 ### Tenet #1: Good learning is active learning
 
 Everyone who was good at something was once bad at it. Learning comes from practice. No amount of reading or video/lecture watching alone will help you to become good without actively engaging with the material through practice. That is why this entire course is focused on supporting you to actively apply machine learning techniques through the assignments, quizzes, and project. Concept described in Make It Stick. 

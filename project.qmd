@@ -5,6 +5,12 @@ toc: true
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 ## Summary and Goals
 
 Machine learning tools are not an end in themselves, but yield value when making predictions, quantifying and describing phenomena in the world around us, and in all these ways and more helping us to make decisions that would otherwise be difficult or impossible. For this final project, you will work in teams to (1) identify a problem to solve or a question to answer, (2) apply machine learning techniques to conduct experiments to address the issues identified in (1), (3) rigorously evaluate the performance of your approach, and (4) clearly communicate your findings to a wide audience. The **deliverables for this project** are:
